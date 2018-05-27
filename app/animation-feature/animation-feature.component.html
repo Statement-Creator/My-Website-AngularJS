@@ -1,0 +1,12 @@
+<div class="center">
+  <h2>Dynamic Animation</h2>
+  <div class="line"></div>
+  <p>By using dynamic animation your site can become more engaging. Animations make the difference between a decent website and an excellent website. Here's an example of what dynamic animation is:</p>
+  <img src="../../assets/Cute-sparrow-bird-nice-HD-image.jpg" [@photoState]="position" class="image" >
+  <div class="btns">
+    <button (click)="changePosition('move')" class="button"> Translate </button>
+    <button (click)="changePosition('spin')" class="button" > Rotate </button>
+    <button (click)="changePosition('enlarge')" class="button"> Scale </button>
+    <button (click)="changePosition(null)" class="button"> Reset </button>
+  </div>
+</div>

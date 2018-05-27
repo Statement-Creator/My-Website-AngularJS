@@ -1,0 +1,27 @@
+img{
+    width: 250px;
+    margin: 55px;
+}
+.btns{
+    display: block;
+    margin-top: 20px;
+}
+.center {
+    width: 550px;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    background-color: #3ddad7;
+    color: #135589;
+    padding: 30px;
+    border:solid;
+    border-color: #3ddad7;
+    border-radius: 10px;
+    border-width:10px;
+}
+.line {
+    background-color: #135589;
+    width: 400px;
+    height: 1px;
+    margin: auto;
+}

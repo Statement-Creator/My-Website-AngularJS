@@ -1,0 +1,55 @@
+.center {
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    background-color: #3ddad7;
+    color: #135589;
+    padding: 30px;
+    border:solid;
+    border-color: #3ddad7;
+    border-radius: 10px;
+    border-width:10px;
+}
+button{
+    background-color: inherit;
+    border: #3ddad7,solid;
+    border-radius: 20px;
+    width: 40px;
+    height: 300px;
+    margin-bottom: -100px;
+    position: absolute;
+}
+.selfie{
+    margin-left: -870px;
+    height: 300px;
+    border: solid;
+    border-color: transparent;
+    border-radius: 40px;
+}
+.navbar {
+    background-color: #3ddad7;
+    text-align:center;
+}
+.anchor{
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #135589;
+}
+.backarrow{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: -650px;
+}
+p{
+    position: absolute;
+    display: inline-block;
+    width: 600px;
+    height: 200px;
+    margin-top: 65px;
+    margin-left: 50px;
+    margin-right: 210px;
+}
+   

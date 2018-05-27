@@ -1,0 +1,30 @@
+.center {
+    width: 550px;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    background-color: #3ddad7;
+    color: #135589;
+    padding: 30px;
+    border:solid;
+    border-color: #3ddad7;
+    border-radius: 10px;
+    border-width:10px;
+}
+input{
+    color: #135589;
+}
+.line {
+    background-color: #135589;
+    width: 400px;
+    height: 1px;
+    margin: auto;
+}
+.dateInput {
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+.ui-datepicker {
+    color: #135589 !important;
+    background-color: #135589;
+}

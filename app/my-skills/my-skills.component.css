@@ -1,0 +1,37 @@
+.line {
+    background-color: #135589;
+    width: 400px;
+    height: 1px;
+    margin: auto;
+}
+.center {
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    background-color: #3ddad7;
+    color: #135589;
+    padding: 30px;
+    border:solid;
+    border-color: #3ddad7;
+    border-radius: 10px;
+    border-width:10px;
+}
+.navbar {
+    background-color: #3ddad7;
+    text-align:center;
+    position: fixed;
+    margin-top: -60px !important;
+}
+.anchor{
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #135589;
+}
+.backarrow{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: -625px;
+}

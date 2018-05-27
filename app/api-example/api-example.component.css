@@ -1,0 +1,43 @@
+.center {
+    width: 550px;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    background-color: #3ddad7;
+    color: #135589;
+    padding: 30px;
+    border:solid;
+    border-color: #3ddad7;
+    border-radius: 10px;
+    border-width:10px;
+}
+.line {
+    background-color: #135589;
+    width: 400px;
+    height: 1px;
+    margin: auto;
+}
+.img{
+    width: 100px;
+    position: absolute;
+    margin-left: -200px;
+    margin-top: 7px;
+}
+.subBack{
+    margin-top:30px;
+    background-color: #135589;
+    border: solid;
+    border-color: #135589;
+    border-radius: 10px;
+    height: 120px;
+}
+.subCountP{
+    color: #3ddad7;
+    margin-top: -10px;
+    margin-left: 70px;
+}
+.subCountP1{
+    color: #3ddad7;
+    margin-top: 20px;
+    margin-left: 70px;
+}
